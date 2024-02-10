@@ -14,27 +14,27 @@ from random import  choice, randint
 
                 
 @app.on_message(
-    command(["سورس","‹ السورس ›","زد إي","السورس", "سورس زد إي"])
+    command(["𝗚𝗥𝟰","‹ 𝗚𝗥𝟰 ›","𝗚𝗥𝟰","𝗚𝗥𝟰", "𝗚𝗥𝟰"])
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/41a777f089288f7ad2571.jpg",
+        photo=f"https://telegra.ph/file/1564e5bd7d494767e0bfa.jpg",
         caption=f"""**ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ . .
- [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/Source_Ze)**""",
+ [𝗚𝗥𝟰](https://t.me/WLT2_TEAM_CHAT)**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "المطور", url=f"https://t.me/ELHYBA"), 
+                        "المطور", url=f"https://t.me/Mohamed_Was_Here"), 
                     
                 
                     InlineKeyboardButton(
-                        "‹ الدعم ›", url=f"https://t.me/ZeSupport"),
+                        "‹ الدعم ›", url=f"https://t.me/WLT2_TEAM_CHAT"),
                 ],[
                     
                 
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/Source_Ze"),
+                        "‹ القناة ›", url=f"https://t.me/for_Mohamed_Was_Here"),
                 
         ],
 
