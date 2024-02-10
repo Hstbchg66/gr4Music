@@ -30,8 +30,8 @@ def private_panel(_):
             InlineKeyboardButton(text="𖣂 الدعم 𖣂", url=config.SUPPORT_CHAT),
         ],
         [
-            InlineKeyboardButton(text="𖣂 قناة المطور 𖣂", url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text="𖣂 قناة السورس 𖣂", url=f"https://t.me/Source_Ze"),
+            InlineKeyboardButton(text="𖣂 جروب المطور 𖣂", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="𖣂 جروب السورس السورس 𖣂", url=f"https://t.me/WLT2_TEAM_CHAT"),
         ],
     ]
     return buttons
