@@ -32,7 +32,7 @@ def supp_markup(_):
         [
             [
                 InlineKeyboardButton(
-                    text=_["S_B_9"],
+                    text=_["@WLT2_TEAM_CHAT"],
                     url=SUPPORT_CHAT,
                 ),
             ]
